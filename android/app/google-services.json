@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "34232387981",
+    "project_id": "psyche-care-1092005",
+    "storage_bucket": "psyche-care-1092005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34232387981:android:d01bafc6e84675d5d795c4",
+        "android_client_info": {
+          "package_name": "com.agam1092005.psychecare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34232387981-1g0ju2qnfih0era0eleil6bqoj59o89g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agam1092005.psychecare",
+            "certificate_hash": "67c10db6493e68b1fb99fdadb7192844b028de27"
+          }
+        },
+        {
+          "client_id": "34232387981-n99q8lsou8r546je2ocddkh5ilp60j8d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRMY6faRKXdPCpmU0ghDsQZ8ZViV5i6ao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34232387981-n99q8lsou8r546je2ocddkh5ilp60j8d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34232387981-5qg8uip3jj48gm63phrn3sbkeu34n5np.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agam1092005.psychecare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
